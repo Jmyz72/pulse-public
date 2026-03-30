@@ -2,7 +2,7 @@
 
 Pulse is a Flutter co-living coordination app for shared households. It brings messaging, expenses, groceries, chores, timetable visibility, events, notifications, and roommate presence into one mobile app.
 
-This repository is the public version of the project. The application code, feature modules, and architecture are included here; secrets and platform credentials are not. You can run the app locally by wiring it to your own Firebase project and API keys.
+This repository is the public showcase version of the project. The application code, feature modules, product structure, and architecture are included here; secrets and platform credentials are not.
 
 ## Highlights
 
@@ -12,6 +12,16 @@ This repository is the public version of the project. The application code, feat
 - Grocery, chores, and living tools for shared spaces
 - Timetable sharing, nearby visibility, and event planning
 - Push notifications, location-aware features, and settings management
+
+## Product Preview
+
+| Onboarding | Home Dashboard |
+| --- | --- |
+| ![Onboarding flow](docs/screenshots/onboarding.png) | ![Home dashboard](docs/screenshots/home-dashboard.png) |
+| Messaging | Live Map Presence |
+| ![Messages list](docs/screenshots/messages.png) | ![Map presence](docs/screenshots/map-presence.png) |
+| Receipt Scanning | |
+| ![Receipt scanning flow](docs/screenshots/receipt-scan.png) | |
 
 ## Tech Stack
 
@@ -108,3 +118,4 @@ Testing approach and conventions are documented in [TESTING.md](/Users/jimmyhew/
 - [FEATURES.md](/Users/jimmyhew/Documents/pulse-public/FEATURES.md)
 - [ARCHITECTURE.md](/Users/jimmyhew/Documents/pulse-public/ARCHITECTURE.md)
 - [TESTING.md](/Users/jimmyhew/Documents/pulse-public/TESTING.md)
+
